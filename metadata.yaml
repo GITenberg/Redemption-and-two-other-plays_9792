@@ -1,0 +1,32 @@
+_repo: Redemption-and-two-other-plays_9792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into English'
+- GITenberg
+tableOfContents: Introduction by Arthur Hopkins -- Redemption -- The Power of Darkness
+  -- Fruits of Culture
+title: Redemption and two other plays
+url: http://www.gutenberg.org/ebooks/9792
